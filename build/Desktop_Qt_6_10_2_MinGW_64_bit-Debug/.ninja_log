@@ -1,0 +1,19 @@
+# ninja log v6
+57	1489	7943969573133111	EmployeesList_autogen/timestamp	59a6843bff5558fb
+57	1489	7943969573133111	EmployeesList_autogen/mocs_compilation.cpp	59a6843bff5558fb
+57	1489	7943969573133111	C:/Users/drago/OneDrive/Dokumente/EmployeesList/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/EmployeesList_autogen/timestamp	59a6843bff5558fb
+57	1489	7943969573133111	C:/Users/drago/OneDrive/Dokumente/EmployeesList/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/EmployeesList_autogen/mocs_compilation.cpp	59a6843bff5558fb
+1498	4491	7943969574419971	CMakeFiles/EmployeesList.dir/EmployeesList_autogen/mocs_compilation.cpp.obj	9ba3eb204cbe84b6
+1505	4499	7943969574489856	CMakeFiles/EmployeesList.dir/main.cpp.obj	daff7e5a2fde0a42
+1510	4901	7943969574544252	CMakeFiles/EmployeesList.dir/mainwindow.cpp.obj	720bce19b3ecafc6
+4902	5617	7943969608468736	EmployeesList.exe	5bba2be61051a014
+13	262	7943976219467454	EmployeesList_autogen/timestamp	59a6843bff5558fb
+13	262	7943976219467454	EmployeesList_autogen/mocs_compilation.cpp	59a6843bff5558fb
+13	262	7943976219467454	C:/Users/drago/OneDrive/Dokumente/EmployeesList/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/EmployeesList_autogen/timestamp	59a6843bff5558fb
+13	262	7943976219467454	C:/Users/drago/OneDrive/Dokumente/EmployeesList/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/EmployeesList_autogen/mocs_compilation.cpp	59a6843bff5558fb
+13	276	7943976901967928	EmployeesList_autogen/timestamp	59a6843bff5558fb
+13	276	7943976901967928	EmployeesList_autogen/mocs_compilation.cpp	59a6843bff5558fb
+13	276	7943976901967928	C:/Users/drago/OneDrive/Dokumente/EmployeesList/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/EmployeesList_autogen/timestamp	59a6843bff5558fb
+13	276	7943976901967928	C:/Users/drago/OneDrive/Dokumente/EmployeesList/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/EmployeesList_autogen/mocs_compilation.cpp	59a6843bff5558fb
+277	3752	7943976904598315	CMakeFiles/EmployeesList.dir/mainwindow.cpp.obj	720bce19b3ecafc6
+3752	4028	7943976939351285	EmployeesList.exe	5bba2be61051a014
